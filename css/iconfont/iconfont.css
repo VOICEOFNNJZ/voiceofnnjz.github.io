@@ -1,0 +1,24 @@
+<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>@font-face {
+  font-family: "iconfont"; /* Project id 3935266 */
+  src: url('iconfont.woff2?t=1678424661228') format('woff2'),
+       url('iconfont.woff?t=1678424661228') format('woff'),
+       url('iconfont.ttf?t=1678424661228') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-top:before {
+  content: "\e62c";
+}
+
+.icon-pen1:before {
+  content: "\e674";
+}
+
+<link rel="stylesheet" href="/css/bilicard.css" type="text/css">
